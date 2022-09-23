@@ -14,20 +14,19 @@ Syllabus in order:
 10. Off-Platform Project: Reggie's Linear Regression
 11. Portfolio Project : US Medical Insurance
 12. Page Visits Funnel
-13. This Is Jeopardy!
-14. EDA: Diagnosing Diabetes
-15. NBA Trends
-16. Detecting Product Defects with Probability
-17. Exploring Mushrooms
-18. Airline Analysis
-19. Portfolio Project : Data Visualization
-20. Cleaning US Census Data
-21. Portfolio Project : Biodiversity in National Parks
-22. Life Expectancy By Country
-23. Summarizing Automobile Evaluation Data
-24. Constellations
-25. Board Slides for FoodWheel
-26. Roller Coaster
-27. Data Scientist : Analytics Specialist Final Portfolio Project
+13. EDA: Diagnosing Diabetes
+14. NBA Trends
+15. Detecting Product Defects with Probability
+16. Exploring Mushrooms
+17. Airline Analysis
+18. Portfolio Project : Data Visualization
+19. Cleaning US Census Data
+20. Portfolio Project : Biodiversity in National Parks
+21. Life Expectancy By Country
+22. Summarizing Automobile Evaluation Data
+23. Constellations
+24. Board Slides for FoodWheel
+25. Roller Coaster
+26. Data Scientist : Analytics Specialist Final Portfolio Project 
 
 Note: Projects that were conducted in SQL programming language, Tableau, and Excel software are not included.
